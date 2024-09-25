@@ -1,0 +1,6 @@
+torch
+transformers
+Pillow
+huggingface-hub
+einops
+timm
