@@ -1,4 +1,4 @@
-# Lora Captioning
+# Image Captioning
 
 Simple script to caption images for training a LoRA model. It uses [Florence-2-large](https://huggingface.co/microsoft/Florence-2-large) to caption images in folder and then saves the captions to a file.
 
