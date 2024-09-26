@@ -16,12 +16,12 @@ source .venv/bin/activate
 2. Install dependencies
 
 ```bash
-pip install -r lora-captioning/requirements.txt
+pip install -r image-captioning/requirements.txt
 ```
 
 3. Run the script
 
 ```bash
-python lora-captioning/captioning.py
+python image-captioning/script.py
 # Enter the path to the folder with images when prompted
 ```
